@@ -21,10 +21,15 @@ The dataset contains information on loans, including loan size, interest rate, b
 
 * Model Accuracy Score: 99%
 * Healthy Loan Predictions
+
   Precision: 100%
+
   Recall: 100%
+
 * High-Rish Loan Predictions
+
   Precision: 86%
+  
   Recall: 91%
 
 ## Summary
